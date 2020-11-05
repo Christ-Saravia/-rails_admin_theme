@@ -1,1 +1,1 @@
-# -rails_admin_theme
+# rails_admin_theme
